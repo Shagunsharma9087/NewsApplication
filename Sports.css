@@ -1,0 +1,9 @@
+.SportsStyle{
+    display: flex;
+    flex-wrap: wrap;
+    height: auto;
+    align-content: space-around;
+    position: relative;
+    left:180px;
+
+}

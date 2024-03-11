@@ -1,0 +1,20 @@
+ul{
+    list-style-type:none;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+
+}
+li{
+    font-weight: bold;
+    font-size: 20px;
+    color: yellow;
+    background-color:white;
+    border-radius: 10px;
+    margin-left: 30px;
+
+}
+#data{
+    width:100px;
+    height: 200px;
+}

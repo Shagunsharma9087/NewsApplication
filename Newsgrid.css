@@ -1,0 +1,18 @@
+#newsitem{
+    font-weight: bold;
+    margin: 20px;
+    width: 25%;
+    height: 30%;
+    border: 2px solid black;
+    overflow-y:scroll;
+}
+#newsitem::-webkit-scrollbar {
+    display: none;
+}
+#anchordata{
+    color: black;
+}
+h2,p{
+    position:relative;
+    left: 180px;
+}
